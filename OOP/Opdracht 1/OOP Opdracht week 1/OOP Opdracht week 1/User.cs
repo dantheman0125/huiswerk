@@ -6,29 +6,31 @@ namespace OOP_Opdracht_week_1
 {
     class User
     {
-        private User next;
-        string name;
-        int access;
+        
+        protected string name;
 
-        public User(string name, int access = 0)
+        public User(string name)
         {
             name = this.name;
-            access = this.access;
         }
 
         public string GetName()
         {
             return name;
         }
+    }
 
-        public int GetAccess()
+    class Admin : User
+    {
+        public Admin(string name) : base(name)
         {
-            return access;
+            name = this.name;
         }
 
-        public int Check_Access()
+        public void MakeBoard(Board board)
         {
-            return 5;
+            Program.AddBoard();
         }
+
     }
 }

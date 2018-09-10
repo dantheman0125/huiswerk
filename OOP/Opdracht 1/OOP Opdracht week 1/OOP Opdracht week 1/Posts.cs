@@ -8,5 +8,7 @@ namespace OOP_Opdracht_week_1
     {
         private List<string> Tag;
 
+
+
     }
 }

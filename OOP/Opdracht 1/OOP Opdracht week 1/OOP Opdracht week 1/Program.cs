@@ -1,9 +1,13 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace OOP_Opdracht_week_1
 {
     class Program
     {
+        private static List<User> userlist;
+
+
         static void Main(string[] args)
         {
             Setup();
@@ -14,17 +18,13 @@ namespace OOP_Opdracht_week_1
 
         static void Setup()
         {
-            User Bert = new User("Bert de Vries");
-            User Ernie = new User("Ernie Bij");
-            User Daniel = new User("Daniel Roskam", 1);
-            User Bertha = new User("Bertha Eend");
-            User Wouter = new User("Wouter Brinksma", 1);
-            User Lisa = new User("Lisa Vis");
-            User Ghost = new User("Spooky Scary");
+            userlist = new List<User>();
 
-
-
-
+            userlist.Add(new User("Ernie Bij"));
+            userlist.Add(new User("Daniel Roskam"));
+            userlist.Add(new User("Bertha Eend"));
+            userlist.Add(new User("Wouter Brinksma"));
+            userlist.Add(new User("Lisa Vis"));
         }
 
         static void Line()
@@ -66,7 +66,7 @@ namespace OOP_Opdracht_week_1
                         break;
                     case 3:
                         Line();
-                        Create();
+                        AddBoard();
                         break;
                     default:
                         InvalInNum();
@@ -90,7 +90,7 @@ namespace OOP_Opdracht_week_1
 
         }
 
-        static void Create()
+        public static void AddBoard()
         {
 
         }

@@ -4,24 +4,13 @@ using System.Text;
 
 namespace OOP_Opdracht_week_1
 {
-    class board
+    class Board
     {
         List<Posts> posts;
-        string name;
 
-        public board (string name)
+        public Board (string name)
         {
-            this.name = name;
-        }
-
-        public void AddPost(Posts post)
-        {
-            posts.Add(post);
-        }
-
-        public List<Posts> GetPosts()
-        {
-            return posts;
+            
         }
     }
 }
