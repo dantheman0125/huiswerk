@@ -31,6 +31,5 @@ namespace OOP_Opdracht_week_1
         {
             Program.AddBoard();
         }
-
     }
 }

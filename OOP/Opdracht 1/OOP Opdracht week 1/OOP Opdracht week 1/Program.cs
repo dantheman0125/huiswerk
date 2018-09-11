@@ -6,7 +6,7 @@ namespace OOP_Opdracht_week_1
     class Program
     {
         private static List<User> userlist;
-
+        private static List<Admin> adminlist;
 
         static void Main(string[] args)
         {
@@ -21,9 +21,9 @@ namespace OOP_Opdracht_week_1
             userlist = new List<User>();
 
             userlist.Add(new User("Ernie Bij"));
-            userlist.Add(new User("Daniel Roskam"));
+            userlist.Add(new Admin("Daniel Roskam"));
             userlist.Add(new User("Bertha Eend"));
-            userlist.Add(new User("Wouter Brinksma"));
+            userlist.Add(new Admin("Wouter Brinksma"));
             userlist.Add(new User("Lisa Vis"));
         }
 
@@ -66,7 +66,7 @@ namespace OOP_Opdracht_week_1
                         break;
                     case 3:
                         Line();
-                        AddBoard();
+                        Create();
                         break;
                     default:
                         InvalInNum();
@@ -88,6 +88,11 @@ namespace OOP_Opdracht_week_1
         static void Search()
         {
 
+        }
+
+        static void Create()
+        {
+            
         }
 
         public static void AddBoard()
