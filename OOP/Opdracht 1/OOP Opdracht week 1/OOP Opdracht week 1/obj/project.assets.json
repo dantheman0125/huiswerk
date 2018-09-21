@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dan\\.nuget\\packages\\": {},
+    "C:\\Users\\danie\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Daniel\\HBO-ICT\\Jaar 2\\Periode 1\\huiswerk\\OOP\\Opdracht 1\\OOP Opdracht week 1\\OOP Opdracht week 1\\OOP Opdracht week 1.csproj",
+      "projectUniqueName": "B:\\HBO-ICT\\Jaar 2\\huiswerk\\OOP\\Opdracht 1\\OOP Opdracht week 1\\OOP Opdracht week 1\\OOP Opdracht week 1.csproj",
       "projectName": "OOP Opdracht week 1",
-      "projectPath": "D:\\Daniel\\HBO-ICT\\Jaar 2\\Periode 1\\huiswerk\\OOP\\Opdracht 1\\OOP Opdracht week 1\\OOP Opdracht week 1\\OOP Opdracht week 1.csproj",
-      "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-      "outputPath": "D:\\Daniel\\HBO-ICT\\Jaar 2\\Periode 1\\huiswerk\\OOP\\Opdracht 1\\OOP Opdracht week 1\\OOP Opdracht week 1\\obj\\",
+      "projectPath": "B:\\HBO-ICT\\Jaar 2\\huiswerk\\OOP\\Opdracht 1\\OOP Opdracht week 1\\OOP Opdracht week 1\\OOP Opdracht week 1.csproj",
+      "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+      "outputPath": "B:\\HBO-ICT\\Jaar 2\\huiswerk\\OOP\\Opdracht 1\\OOP Opdracht week 1\\OOP Opdracht week 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
