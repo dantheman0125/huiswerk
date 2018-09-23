@@ -5,7 +5,6 @@ namespace OOP_Opdracht_week_1
 {
     class Program
     {
-        private static List<User> userlist;
         private static List<Admin> adminlist;
 
         static void Main(string[] args)
@@ -18,13 +17,8 @@ namespace OOP_Opdracht_week_1
 
         static void Setup()
         {
-            userlist = new List<User>();
-
-            userlist.Add(new User("Ernie Bij"));
-            userlist.Add(new Admin("Daniel Roskam"));
-            userlist.Add(new User("Bertha Eend"));
-            userlist.Add(new Admin("Wouter Brinksma"));
-            userlist.Add(new User("Lisa Vis"));
+            var Daniel = new Admin("Daniel Roskam");
+            var username = new User("Gebruikers Naam");
         }
 
         static void Line()
@@ -40,7 +34,6 @@ namespace OOP_Opdracht_week_1
             Console.ReadLine();
             Console.Clear();
             Line();
-
         }
 
         static void Choice1()
