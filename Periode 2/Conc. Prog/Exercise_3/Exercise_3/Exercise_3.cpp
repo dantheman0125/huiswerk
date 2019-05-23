@@ -54,18 +54,17 @@ private:
 
 	void partial_dot_product(int L, int R)
 	{
-		std::lock_guard<std::mutex> guard(mutex);
 		for (int i = L; i < R; ++i) {
-			result += a[i] * b[i];
+			int temp = a[i] * b[i];
+			std::lock_guard<std::mutex> guard(mutex);
+			result += temp;
 		}
 	}
-
 };
 
 int main()
 {
-	int nr_elements = 100000;
-
+	int nr_elements = 8000000;
 	// Fill two vectors with some values 
 	Vector v1(nr_elements, 1), v2(nr_elements, 2);
 
@@ -73,19 +72,7 @@ int main()
 	DotProduct dp(v1, v2);
 
 	// Print the result
-	std::cout << dp() << std::endl;
+	std::cout << int(dp()) << std::endl;
 
 	return 0;
 }
-
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file

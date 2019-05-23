@@ -1,0 +1,8 @@
+Quicksort heeft een big O van n*log(n). Dit zie je omdat de R^2 op 0,9983 ligt.
+
+Ik vond het wel lastig te bepalen omdat de kwadratische grafiek bijna hetzelfde correlatie getal heeft als de n*log(n).
+Ik heb ook even opgezocht op internet en daar werd er ook gezegd dat 'ie een big O van n*log(n) heeft.
+De log(n) ligt er wel redelijk ver vanaf met: 0,7529
+
+Dit formule die bij deze correlatie hoort is: y = 2E-08x + 0,019
+--> seconds = 2 * 10^-8 * n*log(n) + 0,019

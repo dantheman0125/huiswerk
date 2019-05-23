@@ -1,0 +1,3 @@
+Op deze manier krijg je wel telkens het juiste antwoord, maar kan de ene thread pas bezig als de andere volledig klaar
+is. Je behaalt nu geen enkel voordeel bij het gebruik van meerdere threads. Bij het gebruiken van mutexen wil je altijd
+proberen de mutex zo kort mogelijk te locken. Ik zie je nieuwe poging tegemoet.

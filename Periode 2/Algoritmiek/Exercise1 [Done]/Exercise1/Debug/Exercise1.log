@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  ARRAY.cpp
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 2\Algoritmiek\Exercise1\Exercise1\ARRAY.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 2\Algoritmiek\Exercise1\Exercise1\ARRAY.cpp(71): warning C4101: 'tmp': unreferenced local variable
+  Exercise1.cpp
+  Generating Code...
+  Exercise1.vcxproj -> D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 2\Algoritmiek\Exercise1\Debug\Exercise1.exe

@@ -1,7 +1,0 @@
-﻿  Exercise4.cpp
-d:\daniel\hbo-ict\jaar 2\huiswerk\periode 2\algoritmiek\exercise4\exercise4\exercise4.cpp(27): warning C4552: '+': result of expression not used
-d:\daniel\hbo-ict\jaar 2\huiswerk\periode 2\algoritmiek\exercise4\exercise4\exercise4.cpp(30): warning C4552: '-': result of expression not used
-d:\daniel\hbo-ict\jaar 2\huiswerk\periode 2\algoritmiek\exercise4\exercise4\exercise4.cpp(42): warning C4552: '-': result of expression not used
-d:\daniel\hbo-ict\jaar 2\huiswerk\periode 2\algoritmiek\exercise4\exercise4\exercise4.cpp(45): warning C4552: '+': result of expression not used
-d:\daniel\hbo-ict\jaar 2\huiswerk\periode 2\algoritmiek\exercise4\exercise4\exercise4.cpp(96): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Exercise4.vcxproj -> D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 2\Algoritmiek\Exercise4\Debug\Exercise4.exe

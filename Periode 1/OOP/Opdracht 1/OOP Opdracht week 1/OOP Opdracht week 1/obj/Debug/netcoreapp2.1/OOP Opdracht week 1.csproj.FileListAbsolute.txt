@@ -9,3 +9,14 @@ D:\Daniel\HBO-ICT\Jaar 2\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\
 D:\Daniel\HBO-ICT\Jaar 2\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\obj\Debug\netcoreapp2.1\OOP Opdracht week 1.AssemblyInfo.cs
 D:\Daniel\HBO-ICT\Jaar 2\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\obj\Debug\netcoreapp2.1\OOP Opdracht week 1.dll
 D:\Daniel\HBO-ICT\Jaar 2\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\obj\Debug\netcoreapp2.1\OOP Opdracht week 1.pdb
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 1\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\bin\Debug\netcoreapp2.1\OOP Opdracht week 1.deps.json
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 1\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\bin\Debug\netcoreapp2.1\OOP Opdracht week 1.runtimeconfig.json
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 1\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\bin\Debug\netcoreapp2.1\OOP Opdracht week 1.runtimeconfig.dev.json
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 1\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\bin\Debug\netcoreapp2.1\OOP Opdracht week 1.dll
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 1\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\bin\Debug\netcoreapp2.1\OOP Opdracht week 1.pdb
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 1\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\obj\Debug\netcoreapp2.1\OOP Opdracht week 1.csprojAssemblyReference.cache
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 1\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\obj\Debug\netcoreapp2.1\OOP Opdracht week 1.csproj.CoreCompileInputs.cache
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 1\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\obj\Debug\netcoreapp2.1\OOP Opdracht week 1.AssemblyInfoInputs.cache
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 1\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\obj\Debug\netcoreapp2.1\OOP Opdracht week 1.AssemblyInfo.cs
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 1\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\obj\Debug\netcoreapp2.1\OOP Opdracht week 1.dll
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 1\OOP\Opdracht 1\OOP Opdracht week 1\OOP Opdracht week 1\obj\Debug\netcoreapp2.1\OOP Opdracht week 1.pdb

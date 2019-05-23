@@ -1,0 +1,4 @@
+﻿  Exercise_3.cpp
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 2\Conc. Prog\Exercise_3\Exercise_3\Exercise_3.cpp(26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 2\Conc. Prog\Exercise_3\Exercise_3\Exercise_3.cpp(27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Exercise_3.vcxproj -> D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 2\Conc. Prog\Exercise_3\x64\Debug\Exercise_3.exe

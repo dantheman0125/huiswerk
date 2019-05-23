@@ -1,6 +1,0 @@
-﻿  pch.cpp
-  ARRAY.cpp
-d:\daniel\hbo-ict\jaar 2\huiswerk\periode 2\algoritmiek\exercise1\exercise1\array.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Exercise1.cpp
-  Generating Code...
-  Exercise1.vcxproj -> D:\Daniel\HBO-ICT\Jaar 2\Huiswerk\Periode 2\Algoritmiek\Exercise1\Debug\Exercise1.exe

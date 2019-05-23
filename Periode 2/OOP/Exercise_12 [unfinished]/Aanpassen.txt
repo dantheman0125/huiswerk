@@ -1,0 +1,3 @@
+Je roept nu RollCall aan vanuit de operator<<. Deze RollCall schrijft echter altijd naar cout. 
+Je zou echter ook naar cerr of een file willen kunnen schrijven dmv << en dit werkt nu niet. 
+Ik zie je nieuwe poging tegemoet.  

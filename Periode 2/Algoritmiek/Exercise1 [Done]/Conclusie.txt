@@ -1,0 +1,6 @@
+Quicksort heeft een big O van n*log(n), omdat de R² op 0,9994 ligt, oftwel zo goed als 1.
+
+N^2 komt heel erg in de buurt aangezien die een R² heeft van 0,9967, maarja aangezien n*log(n) dichter bij de 1 zit. 
+Heb ik daar voor gekozen. 
+
+De formule die erbij zou horen is: y = 22772x - 39266 of seconds = 22772 * n*log(n) - 39266
